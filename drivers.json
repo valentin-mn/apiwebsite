@@ -3,35 +3,11 @@
     "DriverTable": {
       "Driver": [
         {
-          "GivenName": "Roger",
-          "FamilyName": "Laurent",
-          "DateOfBirth": "1913-02-21",
-          "Nationality": "Belgian"
-        },
-        {
-          "GivenName": "Giovanni",
-          "FamilyName": "Lavaggi",
-          "DateOfBirth": "1958-02-18",
-          "Nationality": "Italian"
-        },
-        {
-          "GivenName": "Chris",
-          "FamilyName": "Lawrence",
-          "DateOfBirth": "1933-07-27",
-          "Nationality": "British"
-        },
-        {
           "PermanentNumber": 16,
           "GivenName": "Charles",
           "FamilyName": "Leclerc",
           "DateOfBirth": "1997-10-16",
           "Nationality": "Monegasque"
-        },
-        {
-          "GivenName": "Michel",
-          "FamilyName": "Leclère",
-          "DateOfBirth": "1946-03-18",
-          "Nationality": "French"
         },
         {
           "GivenName": "Neville",
@@ -40,34 +16,10 @@
           "Nationality": "South African"
         },
         {
-          "GivenName": "Geoff",
-          "FamilyName": "Lees",
-          "DateOfBirth": "1951-05-01",
-          "Nationality": "British"
-        },
-        {
-          "GivenName": "Arthur",
-          "FamilyName": "Legat",
-          "DateOfBirth": "1898-11-01",
-          "Nationality": "Belgian"
-        },
-        {
           "GivenName": "Lamberto",
           "FamilyName": "Leoni",
           "DateOfBirth": "1953-05-24",
           "Nationality": "Italian"
-        },
-        {
-          "GivenName": "Les",
-          "FamilyName": "Leston",
-          "DateOfBirth": "1920-12-16",
-          "Nationality": "British"
-        },
-        {
-          "GivenName": "Pierre",
-          "FamilyName": "Levegh",
-          "DateOfBirth": "1905-12-22",
-          "Nationality": "French"
         },
         {
           "GivenName": "Bayliss",
@@ -76,107 +28,11 @@
           "Nationality": "American"
         },
         {
-          "GivenName": "Jackie",
-          "FamilyName": "Lewis",
-          "DateOfBirth": "1936-11-01",
-          "Nationality": "British"
-        },
-        {
-          "GivenName": "Stuart",
-          "FamilyName": "Lewis-Evans",
-          "DateOfBirth": "1930-04-20",
-          "Nationality": "British"
-        },
-        {
-          "GivenName": "Guy",
-          "FamilyName": "Ligier",
-          "DateOfBirth": "1930-07-12",
-          "Nationality": "French"
-        },
-        {
-          "GivenName": "Andy",
-          "FamilyName": "Linden",
-          "DateOfBirth": "1922-04-05",
-          "Nationality": "American"
-        },
-        {
-          "GivenName": "Roberto",
-          "FamilyName": "Lippi",
-          "DateOfBirth": "1926-10-17",
-          "Nationality": "Italian"
-        },
-        {
-          "GivenName": "Vitantonio",
-          "FamilyName": "Liuzzi",
-          "DateOfBirth": "1980-08-06",
-          "Nationality": "Italian"
-        },
-        {
-          "GivenName": "Lella",
-          "FamilyName": "Lombardi",
-          "DateOfBirth": "1941-03-26",
-          "Nationality": "Italian"
-        },
-        {
-          "GivenName": "Ricardo",
-          "FamilyName": "Londoño",
-          "DateOfBirth": "1949-08-08",
-          "Nationality": "Colombian"
-        },
-        {
-          "GivenName": "Ernst",
-          "FamilyName": "Loof",
-          "DateOfBirth": "1907-07-04",
-          "Nationality": "German"
-        },
-        {
           "PermanentNumber": 45,
           "GivenName": "André",
           "FamilyName": "Lotterer",
           "DateOfBirth": "1981-11-19",
           "Nationality": "German"
-        },
-        {
-          "GivenName": "Henri",
-          "FamilyName": "Louveau",
-          "DateOfBirth": "1910-01-25",
-          "Nationality": "French"
-        },
-        {
-          "GivenName": "John",
-          "FamilyName": "Love",
-          "DateOfBirth": "1924-12-07",
-          "Nationality": "Rhodesian"
-        },
-        {
-          "GivenName": "Pete",
-          "FamilyName": "Lovely",
-          "DateOfBirth": "1926-04-11",
-          "Nationality": "American"
-        },
-        {
-          "GivenName": "Roger",
-          "FamilyName": "Loyer",
-          "DateOfBirth": "1907-08-05",
-          "Nationality": "French"
-        },
-        {
-          "GivenName": "Jean",
-          "FamilyName": "Lucas",
-          "DateOfBirth": "1917-04-25",
-          "Nationality": "French"
-        },
-        {
-          "GivenName": "Jean",
-          "FamilyName": "Lucienbonnet",
-          "DateOfBirth": "1923-01-07",
-          "Nationality": "French"
-        },
-        {
-          "GivenName": "Brett",
-          "FamilyName": "Lunger",
-          "DateOfBirth": "1945-11-14",
-          "Nationality": "American"
         },
         {
           "GivenName": "Boy",
