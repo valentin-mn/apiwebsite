@@ -3,84 +3,84 @@
     "CircuitName": "Albert Park Grand Prix Circuit",
     "Locality": "Melbourne",
     "Country": "Australia",
-    "Image": "https://www.austadiums.com/news/images/albert-park-GF.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\albert-park-GF.jpg"
   },
   {
     "CircuitName": "Circuit of the Americas",
     "Locality": "Austin",
     "Country": "USA",
-    "Image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2021/10/26105919/Start-of-the-2021-United-States-Grand-Prix-planetF1-1199x630.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\Start-of-the-2021-United-States-Grand-Prix-planetF1-1199x630.jpg"
   },
   {
     "CircuitName": "Bahrain International Circuit",
     "Locality": "Sakhir",
     "Country": "Bahrain",
-    "Image": "https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/GettyImages-1231990300.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\GettyImages-1231990300.jpg"
   },
   {
     "CircuitName": "Baku City Circuit",
     "Locality": "Baku",
     "Country": "Azerbaijan",
-    "Image": "https://www.thecheckeredflag.co.uk/wp-content/uploads/2019/04/baku_street_circuit.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\baku_street_circuit.jpg"
   },
   {
     "CircuitName": "Circuit de Barcelona-Catalunya",
     "Locality": "Montmeló",
     "Country": "Spain",
-    "Image": "https://www.thecheckeredflag.co.uk/wp-content/uploads/2021/05/Spanish-Grand-Prix-2020-Race-Start.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\Spanish-Grand-Prix-2020-Race-Start.jpg"
   },
   {
     "CircuitName": "Hungaroring",
     "Locality": "Budapest",
     "Country": "Hungary",
-    "Image": "https://wseries.com/app/uploads/2021/06/1017635872-LAT-19860810-86HUN18.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\1017635872-LAT-19860810-86HUN18.jpg"
   },
   {
     "CircuitName": "Autodromo Enzo e Dino Ferrari",
     "Locality": "Imola",
     "Country": "Italy",
-    "Image": "https://www.motorvalley.it/wp-content/uploads/2019/04/Minardi-Day-1.png"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\imola.png"
   },
   {
     "CircuitName": "Circuit de Monaco",
     "Locality": "Monte-Carlo",
     "Country": "Monaco",
-    "Image": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2021/5/18/ipsdfstmkuw0faah8vru/guide-circuit-monaco-formule-1"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\circuit_monaco.jpg"
   },
   {
     "CircuitName": "Autodromo Nazionale di Monza",
     "Locality": "Monza",
     "Country": "Italy",
-    "Image": "https://927592.smushcdn.com/2543233/media/2021/09/autodromo-nazionale-monza-028-monza_-25.jpg?lossy=0&strip=1&webp=1"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\autodromo-nazionale-monza-028-monza_-25.webp"
   },
   {
     "CircuitName": "Red Bull Ring",
     "Locality": "Spielberg",
     "Country": "Austria",
-    "Image": "https://formularegionaleubyalpine.com/wp-content/uploads/2021/09/V5I6363-scaled.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\redbullaustria.webp"
   },
   {
     "CircuitName": "Circuit Paul Ricard",
     "Locality": "Le Castellet",
     "Country": "France",
-    "Image": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2021/02/11124457/Circuit-Paul-Ricard-French-GP.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\Circuit-Paul-Ricard-French-GP.jpg"
   },
   {
     "CircuitName": "Circuit de Spa-Francorchamps",
     "Locality": "Spa",
     "Country": "Belgium",
-    "Image": "https://images.radio-canada.ca/q_auto,w_960/v1/ici-info/sports/16x9/sebastian-vettel-aston-martin-spa-francorchamps.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\sebastian-vettel-aston-martin-spa-francorchamps.jpg"
   },
   {
     "CircuitName": "Suzuka Circuit",
     "Locality": "Suzuka",
     "Country": "Japan",
-    "Image": "https://www.japan-guide.com/g18/4325_01.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\suzuka.jpg"
   },
   {
     "CircuitName": "Circuit Gilles Villeneuve",
     "Locality": "Montreal",
     "Country": "Canada",
-    "Image": "https://cdn-1.motorsport.com/static/img/amp/400000/430000/435000/435600/435690/s6_18604/f1-canadian-gp-2012-start-of-the-race-sebastian-vettel-red-bull-racing.jpg"
+    "Image": "C:\Users\adminlocalinfo\eclipse-workspace\Archi 2\API_pastest\src\vue\montreal.jpg"
   }
 ]
