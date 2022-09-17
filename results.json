@@ -13,7 +13,7 @@
       "Status":"Finished",
       "Time":"1:20:27.511",
       "FastestLap":{
-         "Time":"1:24.745",
+         "TimeLap":"1:24.745",
          "AverageSpeed":246.088
       }
    },
@@ -31,7 +31,7 @@
       "Status":"Finished",
       "Time":"2.446",
       "FastestLap":{
-         "Time":"1:24.336",
+         "TimeLap":"1:24.336",
          "AverageSpeed":247.282
       }
    },
@@ -49,7 +49,7 @@
       "Status":"Finished",
       "Time":"3.405",
       "FastestLap":{
-         "Time":"1:25.288",
+         "TimeLap":"1:25.288",
          "AverageSpeed":244.522
       }
    },
@@ -85,7 +85,7 @@
       "Status":"Finished",
       "Time":"25.38",
       "FastestLap":{
-         "Time":"1:24.434",
+         "TimeLap":"1:24.434",
          "AverageSpeed":246.995
       }
    },
@@ -103,7 +103,7 @@
       "Status":"Finished",
       "Time":"6.091",
       "FastestLap":{
-         "Time":"1:24.030",
+         "TimeLap":"1:24.030",
          "AverageSpeed":248.182
       }
    },
@@ -121,7 +121,7 @@
       "Status":"Finished",
       "Time":"6.207",
       "FastestLap":{
-         "Time":"1:24.718",
+         "TimeLap":"1:24.718",
          "AverageSpeed":246.167
       }
    },
@@ -139,7 +139,7 @@
       "Status":"Finished",
       "Time":"6.396",
       "FastestLap":{
-         "Time":"1:26.718",
+         "TimeLap":"1:26.718",
          "AverageSpeed":240.489
       }
    },
@@ -157,7 +157,7 @@
       "Status":"Finished",
       "Time":"7.122",
       "FastestLap":{
-         "Time":"1:26.624",
+         "TimeLap":"1:26.624",
          "AverageSpeed":240.75
       }
    },
@@ -175,7 +175,7 @@
       "Status":"Finished",
       "Time":"7.91",
       "FastestLap":{
-         "Time":"1:26.361",
+         "TimeLap":"1:26.361",
          "AverageSpeed":241.484
       }
    },
@@ -193,7 +193,7 @@
       "Status":"Finished",
       "Time":"8.323",
       "FastestLap":{
-         "Time":"1:26.593",
+         "TimeLap":"1:26.593",
          "AverageSpeed":240.837
       }
    },
@@ -211,7 +211,7 @@
       "Status":"Finished",
       "Time":"8.549",
       "FastestLap":{
-         "Time":"1:25.298",
+         "TimeLap":"1:25.298",
          "AverageSpeed":244.493
       }
    },
@@ -228,7 +228,7 @@
       "Laps":"45",
       "Status":"Oil leak",
       "FastestLap":{
-         "Time":"1:26.603",
+         "TimeLap":"1:26.603",
          "AverageSpeed":240.809
       }
    },
@@ -245,7 +245,7 @@
       "Laps":"39",
       "Status":"Engine",
       "FastestLap":{
-         "Time":"1:27.467",
+         "TimeLap":"1:27.467",
          "AverageSpeed":238.43
       }
    },
@@ -262,7 +262,7 @@
       "Laps":"10",
       "Status":"Engine",
       "FastestLap":{
-         "Time":"1:27.501",
+         "TimeLap":"1:27.501",
          "AverageSpeed":238.337
       }
    }
