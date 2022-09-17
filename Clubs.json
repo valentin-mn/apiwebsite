@@ -1,33 +1,27 @@
-{
-  "count": 6,
-  "count_total": 675,
-  "page": 2,
-  "page_total": 113,
-  "items_per_page": 6,
-  "items": [
+[
     {
       "id": 8,
       "name": "Leeds United",
       "league": 13,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png"
+      "image": ""
     },
     {
       "id": 9,
       "name": "Liverpool",
       "league": 13,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png"
+      "image": ""
     },
     {
       "id": 10,
       "name": "Manchester City",
       "league": 13,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png"
+      "image": ""
     },
     {
       "id": 11,
       "name": "Manchester Utd",
       "league": 13,
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
+      "image": ""
     },
     {
       "id": 12,
@@ -42,4 +36,3 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png"
     }
   ]
-}
