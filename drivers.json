@@ -1,7 +1,4 @@
-{
-  "MRData": {
-    "DriverTable": {
-      "Driver": [
+  [
         {
           "PermanentNumber": 16,
           "GivenName": "Charles",
@@ -40,7 +37,4 @@
           "DateOfBirth": "1949-05-03",
           "Nationality": "Dutch"
         }
-      ]
-    }
-  }
-}
+]
