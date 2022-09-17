@@ -1,3 +1,43 @@
+[
+   {
+      "CircuitName":"Albert Park Grand Prix Circuit",
+      "Locality":"Melbourne",
+      "Country":"Australia",
+      "Image":"https://www.austadiums.com/news/images/albert-park-GF.jpg"
+   },
+   {
+      "CircuitName":"Circuit of the Americas",
+      "Locality":"Austin",
+      "Country":"USA",
+      "Image":"https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2021/10/26105919/Start-of-the-2021-United-States-Grand-Prix-planetF1-1199x630.jpg"
+   },
+   {
+      "CircuitName":"Bahrain International Circuit",
+      "Locality":"Sakhir",
+      "Country":"Bahrain",
+      "Image":"https://www.formula1.com/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/GettyImages-1231990300.jpg"
+   },
+   {
+      "CircuitName":"Baku City Circuit",
+      "Locality":"Baku",
+      "Country":"Azerbaijan",
+      "Image":"https://www.thecheckeredflag.co.uk/wp-content/uploads/2019/04/baku_street_circuit.jpg"
+   },
+   {
+      "CircuitName":"Circuit de Barcelona-Catalunya",
+      "Locality":"Montmeló",
+      "Country":"Spain",
+      "Image":"https://www.thecheckeredflag.co.uk/wp-content/uploads/2021/05/Spanish-Grand-Prix-2020-Race-Start.jpg"
+   },
+   {
+      "CircuitName":"Hungaroring",
+      "Locality":"Budapest",
+      "Country":"Hungary",
+      "Image":"https://wseries.com/app/uploads/2021/06/1017635872-LAT-19860810-86HUN18.jpg"
+   },
+   {
+      "CircuitName":"Autodromo Enzo e Dino Ferrari",
+      "Locality":"Imola",
       "Country":"Italy",
       "Image":"https://www.motorvalley.it/wp-content/uploads/2019/04/Minardi-Day-1.png"
    },
