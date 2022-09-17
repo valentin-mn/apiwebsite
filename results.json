@@ -227,6 +227,7 @@
       "Grid":"4",
       "Laps":"45",
       "Status":"Oil leak",
+      "Time":"0",
       "FastestLap":{
          "TimeLap":"1:26.603",
          "AverageSpeed":240.809
@@ -244,6 +245,7 @@
       "Grid":"12",
       "Laps":"39",
       "Status":"Engine",
+      "Time":"0",
       "FastestLap":{
          "TimeLap":"1:27.467",
          "AverageSpeed":238.43
@@ -261,6 +263,7 @@
       "Grid":"11",
       "Laps":"10",
       "Status":"Engine",
+      "Time":"0",
       "FastestLap":{
          "TimeLap":"1:27.501",
          "AverageSpeed":238.337
