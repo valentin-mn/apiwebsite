@@ -1,10 +1,4 @@
-{
-  "count": 6,
-  "count_total": 22942,
-  "page": 1,
-  "page_total": 3824,
-  "items_per_page": 6,
-  "items": [
+[
     {
       "id": 22332,
       "image" : "https://b.fssta.com/uploads/application/soccer/headshots/2100.png",
@@ -276,4 +270,3 @@
       "goalkeeper_attributes": null
     }
   ]
-}
